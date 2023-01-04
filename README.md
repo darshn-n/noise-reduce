@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/darshn-n/noise-reduce/blob/main/notebooks/1.0-test-noise-reduction.ipynb)
 
 
+
 [![PyPI version](https://badge.fury.io/py/noisereduce.svg)](https://badge.fury.io/py/noisereduce)
 
 <div style="text-align:center">
