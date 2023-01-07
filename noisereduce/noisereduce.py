@@ -6,6 +6,7 @@ import scipy
 import tempfile
 from tqdm.auto import tqdm
 
+
 def sigmoid(x, shift, mult):
     """
     Using this sigmoid to discourage one network overpowering the other
